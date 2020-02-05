@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLeft", "TimeLeft\TimeLeft.csproj", "{0DE8155E-8DAA-4E5E-ACA1-9A14D0194F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DE8155E-8DAA-4E5E-ACA1-9A14D0194F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE8155E-8DAA-4E5E-ACA1-9A14D0194F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE8155E-8DAA-4E5E-ACA1-9A14D0194F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE8155E-8DAA-4E5E-ACA1-9A14D0194F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E710182C-4C12-4C6B-A23F-05F593911EA5}
+	EndGlobalSection
+EndGlobal
